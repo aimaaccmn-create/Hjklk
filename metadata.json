@@ -1,0 +1,6 @@
+{
+  "name": "Kronos Local Media & PDF Studio",
+  "description": "Award-inspired 100% client-side video editor, audio noise reduction & merger, format converter, and PDF manipulation studio running entirely on local device hardware with zero server uploads.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
